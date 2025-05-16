@@ -1,0 +1,8 @@
+---
+title: "Contact"
+---
+
+# Contacto
+
+📧 [tuemail@example.com](mailto:tuemail@example.com)  
+🔗 [LinkedIn](https://linkedin.com/in/tu-usuario)
