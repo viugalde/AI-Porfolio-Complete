@@ -2,6 +2,42 @@
 title: "Projects"
 ---
 
-# Proyectos
+# Projects & Case Studies
 
-(Ejemplos de trabajos, campañas, diagnósticos, etc.)
+Below are selected examples of my academic, consulting, and entrepreneurial work. Each one reflects a different aspect of my strategic thinking and creative problem solving.
+
+---
+
+## 🎯 Netflix Advertising Campaign (AI & Business Strategy)
+
+**Course:** AI in Business – UCW, 2025  
+**Tools:** ChatGPT, Canva, APA Style, Quarto
+
+Developed a campaign strategy for Netflix using LLM tools to generate initial drafts, refine message framing, and structure a full business report. The project included target analysis, risk assessment, and visual design alignment.
+
+---
+
+## 🧪 Sanshin Labs Consulting Simulation
+
+**Course:** Consulting Practices – UCW, 2025  
+**Role:** Team Facilitator, Moderator, and Note-Taker
+
+Worked with a real BC startup to analyze the company’s market position and provide strategic advice. Delivered a SWOT analysis, partnership suggestions, and identified core challenges using live team collaboration and business diagnostic frameworks.
+
+---
+
+## 🐻 BusinessBear – Consulting Startup
+
+**Role:** Co-Founder & Strategy Consultant  
+**Focus:** Helping small business owners in BC make strategic decisions affordably.
+
+Developed service models like “Ghost Buyer” and “Diagnostic Express.” Designed pricing structure, marketing strategies, and business health reports. Focused on real-world, accessible consulting with ethical use of AI tools.
+
+---
+
+## 🧱 Urban Design Thesis (Mexico City)
+
+**Project:** Honors Thesis – Universidad Iberoamericana  
+**Title:** Human-Centered Urban Strategies
+
+Explored how people experience public spaces in Mexico City and proposed a design methodology to improve the relationship between community, movement, and scale. Received honors upon graduation.

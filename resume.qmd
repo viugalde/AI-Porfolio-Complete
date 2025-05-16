@@ -2,6 +2,41 @@
 title: "Resume"
 ---
 
-# Currículum Vitae
+# Education
 
-(Agrega aquí tu experiencia, educación y logros.)
+**Master of Business Administration (MBA)** *(in progress)*  
+University Canada West — Vancouver, Canada  
+Jan 2024 – Sep 2025  
+*Focus: Strategy, Consulting, Artificial Intelligence*
+
+**Bachelor’s Degree in Architecture & Urban Design** *(Honors)*  
+Universidad Iberoamericana — Mexico City, Mexico  
+1996  
+*Thesis: Human-Centered Urban Design*
+
+# Work Experience
+
+**Co-Founder & Business Consultant** – BusinessBear, British Columbia  
+*2025–Present*  
+Advising startups and small businesses with strategic planning, branding, and process improvement.
+
+**Seasonal Educator** – Lululemon, Coquitlam  
+*2024–2025*  
+Guest experience, mentorship, and operational support in retail environments.
+
+**Operations Coordinator & Co-Founder** – Concepto 25, Cuernavaca  
+*2018–2023*  
+Led business operations, finance, client experience, and strategic growth for a creative services firm.
+
+**Senior Associate, Corporate Accounts** – CBRE, Mexico City  
+*2012–2018*  
+Managed relocation and real estate strategy projects for Fortune 500 clients across Latin America. Team leadership, negotiations, and market insights.
+
+# Additional Training
+
+- Project Management (PMI) – In Progress  
+- Commercial Real Estate – ITAM, Mexico City (2008)  
+- Digital Marketing – CDMA, Vancouver (2025)  
+- Business Analytics – Simplilearn (2024)  
+- Microsoft Office Specialist – LinkedIn Learning (2024)  
+- Gestalt Therapy & Humanistic Training – IHPG, Mexico (2004)
