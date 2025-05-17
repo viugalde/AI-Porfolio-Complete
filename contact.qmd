@@ -1,11 +1,39 @@
 ---
 title: "Contact"
+format: html
 ---
 
-# Contact
+# Thank You for Your Visit
 
-Thank you for visiting my portfolio.
+If you're working on something exciting, need a fresh perspective, or just want to chat about strategy, innovation, or creative business ideas — I’d love to hear from you.
 
-📧 [viugalde@icloud.com](mailto:viugalde@icloud.com)  
-🔗 [LinkedIn](https://linkedin.com/in/vivianaugalde)  
-🌐 [BusinessBear – Consulting Services](https://businessbear.ca)
+::: {.columns}
+::: {.column width="50%"}
+
+- **Email**  
+  [viugalde@icloud.com](mailto:viugalde@icloud.com)  
+  Let’s start a conversation.
+
+- **LinkedIn**  
+  [linkedin.com/in/vivianaugalde](https://linkedin.com/in/vivianaugalde)  
+  Let’s connect professionally.
+
+- **BusinessBear**  
+  [www.businessbear.ca](https://businessbear.ca)  
+  Explore our consulting services.
+
+:::
+::: {.column width="50%"}
+
+- **Location**  
+  Based in Metro Vancouver, BC  
+  Available for in-person and virtual collaborations.
+
+- **Availability**  
+  Open to freelance consulting, full-time roles, and collaborative projects.
+
+- **Resume**  
+  [Download full resume (PDF)](Viviana-Ugalde-Resume-2025.pdf)
+
+:::
+:::

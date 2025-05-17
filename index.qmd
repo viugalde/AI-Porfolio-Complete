@@ -1,11 +1,18 @@
-<div class="hero">
-  <h1>Viviana Ugalde</h1>
-  <h3>Business Consultant | Architect | MBA Candidate</h3>
+---
+title: "Business Portfolio"
+format: html
+---
+<div class="hero" style="padding: 0.5rem 1rem; margin-bottom: 1rem; background-color: #1c2b38; border-left: 6px solid #f0ad4e;">
+  <h1 style="font-size: 1.5rem; margin: 0;">Viviana Ugalde</h1>
 </div>
 
-<div style="text-align: center; margin-top: 2rem;">
-  <img src="viv.jpeg" alt="Viviana Ugalde" style="border-radius: 50%; width: 220px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+::: {.columns}
+::: {.column width="25%"}
+<div style="text-align: center; margin-top: 1rem;">
+  <img src="viv.jpeg" alt="Viviana Ugalde" style="border-radius: 50%; width: 150px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
 </div>
+:::
+::: {.column width="75%"}
 
 ## About Me
 
@@ -13,8 +20,26 @@
 
 *“My passion is designing business strategies beyond building drawings.”*
 
-I began my career designing human-centered architecture and urban spaces. After more than a decade in real estate consulting and entrepreneurship, I moved to Vancouver to pursue an MBA and shift my focus to business strategy.
+:::
+:::
 
-Now, I help shape ideas, build consulting models, and support small businesses as they grow. I co-founded BusinessBear, a consulting firm in British Columbia focused on empowering local entrepreneurs. My goal is to blend creativity with clarity—to reimagine business as a space for transformation.
+## My Journey
 
-This portfolio shares my experience, tools, and real-world projects where AI, consulting, and human insight come together.
+I began my career as an architect and urban designer. I loved creating spaces that made sense. But my life transitioned; I moved to Vancouver, Canada, to study for an MBA, finishing in Fall 2025.
+
+For me, it’s been a huge step so far, not just for my career, but because of who I’m becoming. I’m figuring out how to bring that same creative mindset into the world of business. It’s like blending two lives into one. And maybe this sounds like a huge challenge or roadblock, but for me it is my passion; I see it as a world of new possibilities.
+
+In parallel, I co-founded a new startup, a consulting firm based in British Columbia: BusinessBear. The company is focused on providing affordable, personalized services for small businesses and entrepreneurs.
+
+So, I no longer just build and design physical spaces. Now I also sculpt and craft new business ideas, implement strategies, and redefine processes.
+
+That’s the kind of legacy I want to help build.
+
+---
+
+### Explore My Work
+
+- [Projects](projects.html)  
+- [Resume](resume.html)  
+- [Skills](skills.html)  
+- [Contact](contact.html)  
