@@ -1,19 +1,23 @@
 {
-  "index.qmd": {
-    "index.tex": "f024acb0",
-    "index.html": "f5149c5d",
-    "index.typ": "607fc070"
-  },
   "contact.qmd": {
-    "contact.html": "51201e4e"
+    "contact.html": "674e01fc"
   },
   "resume.qmd": {
-    "resume.html": "b8f77ea5"
+    "resume.html": "9243e6e2"
   },
   "projects.qmd": {
-    "projects.html": "5592157c"
+    "projects.html": "2d84f4d2"
+  },
+  "index.qmd": {
+    "index.html": "95fc2588"
   },
   "skills.qmd": {
-    "skills.html": "8036f3a8"
+    "skills.html": "aa79fbf4"
+  },
+  "case-studies..qmd": {
+    "case-studies..html": "f286f0ab"
+  },
+  "case-studies.qmd": {
+    "case-studies.html": "db6aa43d"
   }
 }

@@ -2,22 +2,24 @@
 title: "Skills"
 ---
 
-# Human & Strategic Skills
+# Soft & Strategic Skills
+
+#### Focus: Leadership, Communication, Critical Thinking
 
 ::: {.columns}
 ::: {.column width="30%"}
 ![](human-skills.png){fig-align="center" width="75%"}
 :::
 ::: {.column width="70%"}
-- Critical Thinking  
-- Leadership & Team Mentorship  
-- Business Strategy & Change Management  
-- Communication & Storytelling  
-- Problem Solving  
-- Teaching & Workshop Facilitation  
-- Customer Experience Design  
-- Bilingual Communication (English & Spanish)  
-- Empathy, Adaptability & Resilience
+- **Critical Thinking**  
+- **Leadership & Team Mentorship**  
+- **Business Strategy & Change Management**  
+- **Communication & Storytelling**  
+- **Problem Solving**  
+- **Teaching & Workshop Facilitation**  
+- **Customer Experience Design**  
+- **Bilingual Communication (English & Spanish)**  
+- **Empathy, Adaptability & Resilience**
 :::
 :::
 
@@ -25,36 +27,40 @@ title: "Skills"
 
 # Technical & Digital Skills
 
+#### Focus: Tools, Data, Design, and Digital Fluency
+
 ::: {.columns}
 ::: {.column width="30%"}
 ![](tech-skills.png){fig-align="center" width="75%"}
 :::
 ::: {.column width="70%"}
-- Microsoft Office Suite (Advanced)  
-- Data Analysis & Reporting  
-- CRM Platforms & Digital Productivity Tools  
-- Prompt Engineering & Ethical AI Use  
-- Presentation & Visual Design  
-- Canva, AutoCAD, Adobe Suite  
-- Marketing & Campaign Planning  
-- GitHub Pages, Markdown & Quarto
+- **Microsoft Office Suite (Advanced)**  
+- **Data Analysis & Reporting**  
+- **CRM Platforms & Digital Productivity Tools**  
+- **Prompt Engineering & Ethical AI Use**  
+- **Presentation & Visual Design**  
+- **Canva, AutoCAD, Adobe Suite**  
+- **Marketing & Campaign Planning**  
+- **GitHub Pages, Markdown & Quarto**
 :::
 :::
 
 ---
 
-# Certifications & Ongoing Learning
+# Certifications & Continuous Learning
+
+#### Focus: Business, Marketing, Real Estate, Psychology
 
 ::: {.columns}
 ::: {.column width="30%"}
 ![](certifications.png){fig-align="center" width="75%"}
 :::
 ::: {.column width="70%"}
-- Digital Marketing Associate – CDMA (2025)  
-- Business Analytics – Simplilearn (2024)  
-- Microsoft Office Specialist – LinkedIn Learning (2024)  
-- Project Management – PMI (*in progress*)  
-- Commercial Real Estate – ITAM (2008)  
-- Gestalt Therapy & Humanistic Communication – IHPG (2004)
+- **Digital Marketing Associate** – CDMA (2025)  
+- **Business Analytics** – Simplilearn (2024)  
+- **Microsoft Office Specialist** – LinkedIn Learning (2024)  
+- **Project Management** – PMI (*in progress*)  
+- **Commercial Real Estate** – ITAM (2008)  
+- **Gestalt Therapy & Humanistic Communication** – IHPG (2004)
 :::
 :::

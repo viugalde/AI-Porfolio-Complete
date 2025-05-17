@@ -3,55 +3,76 @@ title: "Resume"
 ---
 
 ## Education
-::: {.columns}
+:::{.columns}
 ::: {.column width="30%"}
 ![](Education.png){fig-align="center" width="75%"}
 :::
 ::: {.column width="70%"}
-- **MBA – Master of Business Administration** *(in progress)*  
-  [University Canada West](https://www.ucanwest.ca), Vancouver (2024–2025)  
-  *Focus: Strategy, Consulting, AI*
+### **MBA – Master of Business Administration**
+#### Degree: In progress  
+[University Canada West](https://www.ucanwest.ca), Vancouver (2024–2025)  
+*Focus: Strategy, Consulting, AI*
 
-- **Bachelor’s in Architecture & Urban Design** *(Honors)*  
-  [Universidad Iberoamericana](https://ibero.mx), Mexico City (1996)  
-  *Thesis: Human-Centered Urban Design*
+---
+
+### **Bachelor’s in Architecture & Urban Design**
+#### Degree: Completed with Honors  
+[Universidad Iberoamericana](https://ibero.mx), Mexico City (1996)  
+*Thesis: Human-Centered Urban Design*
 :::
 :::
 
 ---
 
 ## Work Experience
-::: {.columns}
+:::{.columns}
 ::: {.column width="30%"}
 ![](Work.png){fig-align="center" width="75%"}
 :::
 ::: {.column width="70%"}
-- **Co-Founder & Business Consultant** – [BusinessBear](https://www.businessbear.ca), BC (2025–Present)  
-  Strategic support for startups in planning, branding, and growth.
+### **BusinessBear – Co-Founder & Business Consultant**
+#### Role: Strategic Advisor to Startups  
+[BusinessBear](https://www.businessbear.ca), BC (2025–Present)  
+Strategic support for startups in planning, branding, and growth.
 
-- **Seasonal Educator** – [Lululemon](https://shop.lululemon.com), Coquitlam (2024–2025)  
-  Retail guest experience and mentorship during peak seasons.
+---
 
-- **Operations Coordinator & Partner** – Concepto 25, Cuernavaca (2018–2023)  
-  Led daily operations, reduced costs, and drove client engagement.
+### **Lululemon – Seasonal Educator**
+#### Role: Retail & Guest Experience Mentor  
+[Lululemon](https://shop.lululemon.com), Coquitlam (2024–2025)  
+Retail guest experience and mentorship during peak seasons.
 
-- **Senior Associate, Corp. Accounts** – [CBRE](https://www.cbre.com), Mexico City (2012–2018)  
-  Managed relocation strategy and cross-regional corporate portfolios.
+---
 
-- **Operations & Appraisal Analyst** – [Banamex (Citigroup)](https://www.banamex.com), Mexico City (2010–2012)  
-  Analyzed financial risk and supported real estate reporting systems.
+### **Concepto 25 – Operations Coordinator & Partner**
+#### Role: Operations & Business Development  
+Cuernavaca (2018–2023)  
+Led daily operations, reduced costs, and drove client engagement.
+
+---
+
+### **CBRE – Senior Associate, Corporate Accounts**
+#### Role: Regional Relocation Strategy Lead  
+[CBRE](https://www.cbre.com), Mexico City (2012–2018)  
+Managed relocation strategy and cross-regional corporate portfolios.
+
+---
+
+### **Banamex (Citigroup) – Operations & Appraisal Analyst**
+#### Role: Real Estate Financial Analyst  
+[Banamex](https://www.banamex.com), Mexico City (2010–2012)  
+Analyzed financial risk and supported real estate reporting systems.
 :::
 :::
 
 ---
 
-
 ## Full Resume (PDF)
-::: {.columns}
+:::{.columns}
 ::: {.column width="30%"}
 ![](Pdf.png){fig-align="center" width="75%"}
 :::
 ::: {.column width="70%"}
-📄 [Download my full resume (PDF)](Viviana-Ugalde-Resume-2025.pdf)
+[Download my full resume (PDF)](Viviana-Ugalde-Resume-2025.pdf)
 :::
 :::

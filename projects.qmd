@@ -2,42 +2,142 @@
 title: "Projects"
 ---
 
-# Projects & Case Studies
-
+::: {.callout-note}
 Below are selected examples of my academic, consulting, and entrepreneurial work. Each one reflects a different aspect of my strategic thinking and creative problem solving.
+:::
 
 ---
 
-## 🎯 Netflix Advertising Campaign (AI & Business Strategy)
-
-**Course:** AI in Business – UCW, 2025  
-**Tools:** ChatGPT, Canva, APA Style, Quarto
-
-Developed a campaign strategy for Netflix using LLM tools to generate initial drafts, refine message framing, and structure a full business report. The project included target analysis, risk assessment, and visual design alignment.
+## Academic Projects
 
 ---
 
-## 🧪 Sanshin Labs Consulting Simulation
+### **AI & Change Management – Innovation Adoption Proposal**  
+#### Role: Lead Consultant
 
-**Course:** Consulting Practices – UCW, 2025  
-**Role:** Team Facilitator, Moderator, and Note-Taker
+::: {.columns}
+::: {.column width="30%"}
+![](ai-change.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+I created a proposal to implement AI in a mid-sized retail company, including a structured change management plan. It addressed resistance, mapped stakeholders, and included long-term training and monitoring strategies.
 
-Worked with a real BC startup to analyze the company’s market position and provide strategic advice. Delivered a SWOT analysis, partnership suggestions, and identified core challenges using live team collaboration and business diagnostic frameworks.
-
----
-
-## 🐻 BusinessBear – Consulting Startup
-
-**Role:** Co-Founder & Strategy Consultant  
-**Focus:** Helping small business owners in BC make strategic decisions affordably.
-
-Developed service models like “Ghost Buyer” and “Diagnostic Express.” Designed pricing structure, marketing strategies, and business health reports. Focused on real-world, accessible consulting with ethical use of AI tools.
+[View full project (PDF)](AI-Change-Management.pdf)
+:::
+:::
 
 ---
 
-## 🧱 Urban Design Thesis (Mexico City)
+### **Eslanda – Sensory Reset Digital Marketing Strategy**  
+#### Role: Lead Consultant
 
-**Project:** Honors Thesis – Universidad Iberoamericana  
-**Title:** Human-Centered Urban Strategies
+::: {.columns}
+::: {.column width="30%"}
+![](eslanda.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+Led a creative marketing strategy for a wellness startup. My team developed personas, pricing, and a digital campaign plan using tools like Shopify and Hootsuite, focused on emotional clarity and simplicity.
 
-Explored how people experience public spaces in Mexico City and proposed a design methodology to improve the relationship between community, movement, and scale. Received honors upon graduation.
+[View full project (PDF)](Eslanda-Digital-Marketing.pdf)
+:::
+:::
+
+---
+
+### **A to Z Urban & Sustainable Consulting – Ethics & CSR Strategy**  
+#### Role: Group Contributor
+
+::: {.columns}
+::: {.column width="30%"}
+![](atoz.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+Developed a fictitious firm to explore ethical challenges in urban development. The project balanced profitability with social impact, using LEED compliance and CSR frameworks for sustainable city design.
+
+[View full project (PDF)](AtoZ-Urban-Consulting.pdf)
+:::
+:::
+
+---
+
+### **Sears – Strategic Failure in Digital Transformation**  
+#### Role: Analyst
+
+::: {.columns}
+::: {.column width="30%"}
+![](sears.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+Analyzed Sears’ decline as a case of failed innovation. The report showed how leadership prioritized financial cuts over customer experience, leading to brand loss. Connected it with change and tech strategy.
+
+[View full project (PDF)](Sears-Failure-Report.pdf)
+:::
+:::
+
+---
+
+### **Knowledge Management & AI – Business Strategy Case Study**  
+#### Role: Researcher
+
+::: {.columns}
+::: {.column width="30%"}
+![](kms.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+Studied how Toyota, IBM, and Lululemon use KM and AI to improve operations. Proposed a roadmap for AI integration, including maturity levels, tacit/explicit knowledge, and governance layers.
+
+[View full project (PDF)](KM-AI-Case-Study.pdf)
+:::
+:::
+
+---
+
+## Professional & Work Experience Projects
+
+---
+
+### **BusinessBear – Strategic Consulting Startup**  
+#### Role: Co-founder
+
+::: {.columns}
+::: {.column width="30%"}
+![](businessbear.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+Co-founded BusinessBear to support small businesses with tailored tools and advice. Designed services like Ghost Buyer™, Dream Phase, and diagnostic reviews, focused on honest, creative guidance.
+
+[View full project (PDF)](BusinessBear-Snapshot.pdf)
+:::
+:::
+
+---
+
+### **Concepto 25 – Home Chef & Garden Product Line**  
+#### Role: Designer
+
+::: {.columns}
+::: {.column width="30%"}
+![](concepto25.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+Created eco-friendly home and kitchen products in Mexico. Developed spice blends, tortilla warmers, and seed kits sold via Walmart and Amazon, combining design, storytelling, and sustainable packaging.
+
+[View full project (PDF)](Concepto25-Product-Portfolio.pdf)
+:::
+:::
+
+---
+
+### **Casa Laberinto – Architectural Design Project**  
+#### Role: Designer
+
+::: {.columns}
+::: {.column width="30%"}
+![](casa-laberinto.jpg){fig-align="center" width="100%"}
+:::
+::: {.column width="70%"}
+Designed a minimalist home using concrete, wood, and steel to blend with nature. The space connects through texture and light, reflecting my approach to form, flow, and harmony.
+
+[View full project (PDF)](Casa-Laberinto-Photos.pdf)
+:::
+:::

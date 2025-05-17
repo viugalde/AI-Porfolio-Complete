@@ -5,7 +5,8 @@ format: html
 
 # Thank You for Your Visit
 
-If you're working on something exciting, need a fresh perspective, or just want to chat about strategy, innovation, or creative business ideas — I’d love to hear from you.
+I would be pleased to hear from you if you’re working on an interesting project or looking for a fresh perspective. Don’t hesitate to reach out to discuss creative business strategies, ideas, or new opportunities.
+
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -20,13 +21,13 @@ If you're working on something exciting, need a fresh perspective, or just want 
 
 - **BusinessBear**  
   [www.businessbear.ca](https://businessbear.ca)  
-  Explore our consulting services.
+  Or explore our consulting solutions.
 
 :::
 ::: {.column width="50%"}
 
 - **Location**  
-  Based in Metro Vancouver, BC  
+  Metro Vancouver, BC  
   Available for in-person and virtual collaborations.
 
 - **Availability**  
