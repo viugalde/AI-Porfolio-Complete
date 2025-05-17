@@ -3,7 +3,7 @@ title: "Projects"
 ---
 
 ::: {.callout-note}
-Below are selected examples of my academic, consulting, and entrepreneurial work. Each one reflects a different aspect of my strategic thinking and creative problem solving.
+Below are selected examples of my academic and entrepreneurial work. Each one reflects a different aspect of my strategic thinking and creative problem solving.
 :::
 
 ---
@@ -23,7 +23,7 @@ Below are selected examples of my academic, consulting, and entrepreneurial work
 &nbsp;
 :::
 ::: {.column width="65%"}
-Blended my retail experience with MBA strategy to propose an AI system for Lululemon’s inventory. Focused on stock visibility and included a change management plan for internal adoption.
+I mixed my retail experience with MBA strategy to propose an AI system for Lululemon’s stores inventory. Focused on stock visibility and including a change management plan for internal employee adoption.
 
 [View full project (PDF)](AI-Change-Management.pdf)
 :::
@@ -32,7 +32,7 @@ Blended my retail experience with MBA strategy to propose an AI system for Lulul
 ---
 
 ### **Eslanda – Sensory Reset Digital Marketing Strategy**  
-#### Role: Lead Consultant
+#### Role: Project Lead Consultant
 
 ::: {.columns}
 ::: {.column width="30%"}
@@ -42,7 +42,7 @@ Blended my retail experience with MBA strategy to propose an AI system for Lulul
 &nbsp;
 :::
 ::: {.column width="65%"}
-Led a creative marketing strategy for a wellness startup. My team developed personas, pricing, and a digital campaign plan using tools like Shopify and Hootsuite, focused on emotional clarity and simplicity.
+Led a creative marketing strategy for a wellness startup based in Vancouver BC. We developed new branding, personas, pricing, and a detailed digital campaign plan, focused on emotional clarity and simplicity.
 
 [View full project (PDF)](Eslanda-Digital-Marketing.pdf)
 :::
@@ -51,7 +51,7 @@ Led a creative marketing strategy for a wellness startup. My team developed pers
 ---
 
 ### **A to Z Urban & Sustainable Consulting – Ethics & CSR Strategy**  
-#### Role: Group Contributor
+#### Role: Lead Consultant
 
 ::: {.columns}
 ::: {.column width="30%"}
@@ -61,7 +61,7 @@ Led a creative marketing strategy for a wellness startup. My team developed pers
 &nbsp;
 :::
 ::: {.column width="65%"}
-Developed a fictitious firm to explore ethical challenges in urban development. The project balanced profitability with social impact, using LEED compliance and CSR frameworks for sustainable city design.
+Developed a fictitious firm to explore ethical challenges in urban development in Vancouver BC. The project balanced profitability with social impact, using LEED compliance and CSR frameworks for sustainable city design.
 
 [View full project (PDF)](AtoZ-Urban-Consulting.pdf)
 :::
@@ -84,7 +84,7 @@ Developed a fictitious firm to explore ethical challenges in urban development. 
 &nbsp;
 :::
 ::: {.column width="65%"}
-Co-founded BusinessBear to support small businesses with tailored tools and advice. Designed services like Ghost Buyer™, Dream Phase, and diagnostic reviews, focused on honest, creative guidance.
+Co-founded BusinessBear to support small businesses  and startuops, offering tailored solutions and advice. Designed services like Ghost Buyer™, Dream Phase, and diagnostic reviews. We are focused on honest, creative guidance.
 
 [View full project (Website)](https://www.businessbear.ca/copy-of-home-1)
 :::
@@ -93,7 +93,7 @@ Co-founded BusinessBear to support small businesses with tailored tools and advi
 ---
 
 ### **Concepto 25 – Home Chef & Garden Product Line**  
-#### Role: Designer
+#### Role: Operations Manager and Strategic Designer
 
 ::: {.columns}
 ::: {.column width="30%"}
@@ -111,8 +111,8 @@ Created eco-friendly home and kitchen products in Mexico. Developed spice blends
 
 ---
 
-### **Casa Laberinto – Architectural Design Project**  
-#### Role: Designer
+### **Casa Laberinto – Architectural Design and Construction Project**  
+#### Role: Lead Architect and Project Manager
 
 ::: {.columns}
 ::: {.column width="30%"}
@@ -122,7 +122,7 @@ Created eco-friendly home and kitchen products in Mexico. Developed spice blends
 &nbsp;
 :::
 ::: {.column width="65%"}
-Designed a minimalist home using concrete, wood, and steel to blend with nature. The space connects through texture and light, reflecting my approach to form, flow, and harmony.
+Designed and Built a minimalist home using concrete, wood, and steel to blend with nature. The space connects through texture and light, reflecting my approach to form, flow, and harmony.
 
 [Watch project video](https://youtube.com/shorts/crO6lYNYVpI?feature=share)
 :::
