@@ -12,15 +12,18 @@ Below are selected examples of my academic, consulting, and entrepreneurial work
 
 ---
 
-### **AI & Change Management – Innovation Adoption Proposal**  
+### **Lululemon Case: AI Strategy & Organizational Change**  
 #### Role: Lead Consultant
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](ai-change.jpg){fig-align="center" width="100%"}
+![](lululemonlogo.png){fig-align="center" width="100%" style="padding-bottom: 10px; margin-bottom: 15px;"}
 :::
-::: {.column width="70%"}
-I created a proposal to implement AI in a mid-sized retail company, including a structured change management plan. It addressed resistance, mapped stakeholders, and included long-term training and monitoring strategies.
+::: {.column width="5%"}
+&nbsp;
+:::
+::: {.column width="65%"}
+Blended my retail experience with MBA strategy to propose an AI system for Lululemon’s inventory. Focused on stock visibility and included a change management plan for internal adoption.
 
 [View full project (PDF)](AI-Change-Management.pdf)
 :::
@@ -33,9 +36,12 @@ I created a proposal to implement AI in a mid-sized retail company, including a 
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](eslanda.jpg){fig-align="center" width="100%"}
+![](eslanda.png){fig-align="center" width="100%" style="padding-bottom: 10px; margin-bottom: 15px;"}
 :::
-::: {.column width="70%"}
+::: {.column width="5%"}
+&nbsp;
+:::
+::: {.column width="65%"}
 Led a creative marketing strategy for a wellness startup. My team developed personas, pricing, and a digital campaign plan using tools like Shopify and Hootsuite, focused on emotional clarity and simplicity.
 
 [View full project (PDF)](Eslanda-Digital-Marketing.pdf)
@@ -49,44 +55,15 @@ Led a creative marketing strategy for a wellness startup. My team developed pers
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](atoz.jpg){fig-align="center" width="100%"}
+![](AtoZ.png){fig-align="center" width="100%" style="padding-bottom: 10px; margin-bottom: 15px;"}
 :::
-::: {.column width="70%"}
+::: {.column width="5%"}
+&nbsp;
+:::
+::: {.column width="65%"}
 Developed a fictitious firm to explore ethical challenges in urban development. The project balanced profitability with social impact, using LEED compliance and CSR frameworks for sustainable city design.
 
 [View full project (PDF)](AtoZ-Urban-Consulting.pdf)
-:::
-:::
-
----
-
-### **Sears – Strategic Failure in Digital Transformation**  
-#### Role: Analyst
-
-::: {.columns}
-::: {.column width="30%"}
-![](sears.jpg){fig-align="center" width="100%"}
-:::
-::: {.column width="70%"}
-Analyzed Sears’ decline as a case of failed innovation. The report showed how leadership prioritized financial cuts over customer experience, leading to brand loss. Connected it with change and tech strategy.
-
-[View full project (PDF)](Sears-Failure-Report.pdf)
-:::
-:::
-
----
-
-### **Knowledge Management & AI – Business Strategy Case Study**  
-#### Role: Researcher
-
-::: {.columns}
-::: {.column width="30%"}
-![](kms.jpg){fig-align="center" width="100%"}
-:::
-::: {.column width="70%"}
-Studied how Toyota, IBM, and Lululemon use KM and AI to improve operations. Proposed a roadmap for AI integration, including maturity levels, tacit/explicit knowledge, and governance layers.
-
-[View full project (PDF)](KM-AI-Case-Study.pdf)
 :::
 :::
 
@@ -101,12 +78,15 @@ Studied how Toyota, IBM, and Lululemon use KM and AI to improve operations. Prop
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](businessbear.jpg){fig-align="center" width="100%"}
+![](businessbear.jpg){fig-align="center" width="100%" style="padding-bottom: 10px; margin-bottom: 15px;"}
 :::
-::: {.column width="70%"}
+::: {.column width="5%"}
+&nbsp;
+:::
+::: {.column width="65%"}
 Co-founded BusinessBear to support small businesses with tailored tools and advice. Designed services like Ghost Buyer™, Dream Phase, and diagnostic reviews, focused on honest, creative guidance.
 
-[View full project (PDF)](BusinessBear-Snapshot.pdf)
+[View full project (Website)](https://www.businessbear.ca/copy-of-home-1)
 :::
 :::
 
@@ -117,9 +97,12 @@ Co-founded BusinessBear to support small businesses with tailored tools and advi
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](concepto25.jpg){fig-align="center" width="100%"}
+![](concepto25.jpg){fig-align="center" width="100%" style="padding-bottom: 10px; margin-bottom: 15px;"}
 :::
-::: {.column width="70%"}
+::: {.column width="5%"}
+&nbsp;
+:::
+::: {.column width="65%"}
 Created eco-friendly home and kitchen products in Mexico. Developed spice blends, tortilla warmers, and seed kits sold via Walmart and Amazon, combining design, storytelling, and sustainable packaging.
 
 [View full project (PDF)](Concepto25-Product-Portfolio.pdf)
@@ -133,11 +116,14 @@ Created eco-friendly home and kitchen products in Mexico. Developed spice blends
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](casa-laberinto.jpg){fig-align="center" width="100%"}
+![](casa-laberinto.jpg){fig-align="center" width="100%" style="padding-bottom: 10px; margin-bottom: 15px;"}
 :::
-::: {.column width="70%"}
+::: {.column width="5%"}
+&nbsp;
+:::
+::: {.column width="65%"}
 Designed a minimalist home using concrete, wood, and steel to blend with nature. The space connects through texture and light, reflecting my approach to form, flow, and harmony.
 
-[View full project (PDF)](Casa-Laberinto-Photos.pdf)
+[Watch project video](https://youtube.com/shorts/crO6lYNYVpI?feature=share)
 :::
 :::
